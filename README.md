@@ -1,4 +1,4 @@
-# Hey, I'm [Aman Ahuja!]👋🏽
+# Hey, I'm Aman Ahuja!👋🏽
 <!-- (http://ritwik-sinha.herokuapp.com)  -->
 
 <br/>
