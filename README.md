@@ -1,5 +1,5 @@
 # Hey, I'm Aman Ahuja!👋🏽
-<!-- (http://ritwik-sinha.herokuapp.com)  -->
+<!-- (http://amanahuja.herokuapp.com)  -->
 
 <br/>
 
@@ -20,7 +20,7 @@
   <br />
 
   <a href="https://www.instagram.com/calll_me_dude/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-mr_ritwik-red?logo=instagram&logoColor=red&color=purple" />
+    <img src="https://img.shields.io/badge/Instagram-calll_me_dude-red?logo=instagram&logoColor=red&color=purple" />
   </a>
 </p>
 
