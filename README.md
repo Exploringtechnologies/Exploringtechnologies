@@ -1,24 +1,25 @@
-# Hey, I'm [Ritwik!](http://ritwik-sinha.herokuapp.com) 👋🏽
+# Hey, I'm [Aman Ahuja!]👋🏽
+<!-- (http://ritwik-sinha.herokuapp.com)  -->
 
 <br/>
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/ritwik-sinha-8854a2146/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Ritwik%20Sinha-blue?logo=linkedin&logoColor=blue&color=blue" />
+  <a href="https://www.linkedin.com/in/aman-ahuja-253506168/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Aman%20Ahuja-blue?logo=linkedin&logoColor=blue&color=blue" />
  </a>
 
-  <a href="https://t.me/@Mr_Ritwik" target="_blank" rel="noopener noreferrer">
+<!--   <a href="https://t.me/@Mr_Ritwik" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-Mr_Ritwik-blue?logo=telegram&logoColor=blue&color=blue" />
-  </a>
+  </a> -->
 
-  <a href="https://www.youtube.com/channel/UCAARrqhtZoZwEoxnVA22WeQ" target="_blank" rel="noopener noreferrer">
+<!--   <a href="https://www.youtube.com/channel/UCAARrqhtZoZwEoxnVA22WeQ" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-Ritwik%20Sinha-yellow?logo=youtube&logoColor=red&color=yellow" />
-  </a>
+  </a> -->
 
   <br />
 
-  <a href="https://www.instagram.com/mr_ritwik/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/calll_me_dude/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-mr_ritwik-red?logo=instagram&logoColor=red&color=purple" />
   </a>
 </p>
@@ -41,4 +42,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 
-![Ritwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritwik880&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Ritwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Exploringtechnologies&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
