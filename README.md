@@ -20,7 +20,7 @@
   <br />
 
   <a href="https://www.instagram.com/itsaman.ahuja/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-Aaman%20Ahuja-green?logo=instagram&logoColor=red&color=yellow" />
+    <img src="https://img.shields.io/badge/Instagram-Aman%20Ahuja-green?logo=instagram&logoColor=red&color=yellow" />
   </a>
 </p>
 
